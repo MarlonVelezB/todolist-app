@@ -103,7 +103,7 @@ Para empezar a trabajar con el proyecto, sigue estos pasos:
 ```
 npm install -g pnpm
 ```
-2. Instalar Node.js
+2. Instalar
 [NodeJs](https://nodejs.org/en)
 
 3. Clona el repositorio:
