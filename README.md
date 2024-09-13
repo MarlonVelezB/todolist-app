@@ -99,13 +99,13 @@ const memoizedCallback = useCallback(() => {
 
 Para empezar a trabajar con el proyecto, sigue estos pasos:
 
-1. Instalar PNPM
+1. Instalar
+[NodeJs](https://nodejs.org/en)
+
+2. Instalar PNPM
 ```
 npm install -g pnpm
 ```
-2. Instalar
-[NodeJs](https://nodejs.org/en)
-
 3. Clona el repositorio:
 ```
 git clone [https://github.com/MarlonVelezB/todolist-app.git](https://github.com/MarlonVelezB/todolist-app.git)
